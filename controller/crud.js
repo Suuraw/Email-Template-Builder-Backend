@@ -1,4 +1,3 @@
-import { dummyTemplate } from "../template/template.js";
 import Template from "../schema/template.js";
 export const sendTemplate = async (req, res) => {
   try {
